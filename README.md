@@ -6,3 +6,4 @@ Cilj je prevesti izvorne datoteke oziroma popraviti napake v že prevedenih. Izv
 
 ## Znak ^
 Ponekod se pojavi znak ^, ki ga stran uporablja za vstavljanje dinamičnih elementov. Med prevajanjem se lahko znak ^ premakne. Ponekod stoji znak zraven ključne besede, npr. ^element, ki se po prevajanju spremeni. Ključne besede namreč ne smejo biti prevedene. V ta namen je ob vsakem prevedenem vnosu še komentar z izvornim tekstom, na podlagi katerega se preveden tekst popravi, tako da so ključne besede v izvorni obliki in znaki ^ na pravih mestih. To je ključnega pomena za delovanje strani.
+...
