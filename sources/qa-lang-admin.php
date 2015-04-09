@@ -248,7 +248,7 @@
        'widget_global_options'=>'- ^1options^2', // - ^1options^2
        'widget_name'=>'Ime gradnika:', 
        'widget_no_positions'=>'Ta gradnik je že dodan vsem položajem ki so na voljo.', 
-       'widget_not_available'=>'Ta gradnik ni na voljo. To bi lahko bilo, ker je vtičnik zagotavlja widget ni več nameščen.', 
+       'widget_not_available'=>'Ta gradnik ni na voljo.', 
        'widget_pages_explanation'=>'Prikaži gradnik v tem položaju na naslednjih straneh:', 
        'widgets_explanation'=>'Razlaga gradnikov:', 
    );
