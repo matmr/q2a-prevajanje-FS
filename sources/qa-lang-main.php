@@ -75,11 +75,11 @@
        'meta_order'=>'^what^when^where^who', //^what^when^where^who
        'min_length_x'=>'Prosimo, zagotovite več informacij - vsaj ^ znakov', //Please provide more information - at least ^ characters
        'moved'=>'preselil', 
-       'nav_activity'=>'Vse Activity', 
-       'nav_admin'=>'Admin', 
+       'nav_activity'=>'Vse dejavnosti', 
+       'nav_admin'=>'Administrator', 
        'nav_ask'=>'Zastavi vprašanje', 
        'nav_categories'=>'Kategorije', 
-       'nav_feedback'=>'Pošlji povratne informacije', 
+       'nav_feedback'=>'Pošlji povratna informacijo', 
        'nav_home'=>'Domov', 
        'nav_hot'=>'Vroče!', 
        'nav_login'=>'Prijava', 
