@@ -62,8 +62,8 @@
        'general_error'=>'Prišlo je do napake na strežniku - poskusite znova.', 
        'hidden'=>'skrito', 
        'highest_users'=>'Uporabniki z največ točkami ', 
-       'hot_qs_in_x'=>'Vroča vprašanja v ^', //Hot questions in ^
-       'hot_qs_title'=>'Vroča vprašanja', 
+       'hot_qs_in_x'=>'Aktualna vprašanja v ^', //Hot questions in ^
+       'hot_qs_title'=>'Aktualna vprašanja', 
        'image_not_read'=>'Slike ni bilo mogoče prebrati. Prosimo, prenesite eno izmed: ^', //The image could not be read. Please upload one of: ^
        'image_too_big_x_pc'=>'Ta slika je prevelika. Prosimo, izberite sliko, ki je manjša od ^% in poskusite znova.', //This image is too big. Please scale to ^% then try again.
        'in_category_x'=>'v ^', //in ^
@@ -81,7 +81,7 @@
        'nav_categories'=>'Kategorije', 
        'nav_feedback'=>'Pošlji povratno informacijo', 
        'nav_home'=>'Domov', 
-       'nav_hot'=>'Vroče!', 
+       'nav_hot'=>'Aktualno!', 
        'nav_login'=>'Prijava', 
        'nav_logout'=>'Odjava', 
        'nav_most_answers'=>'Največ odgovorov', 
