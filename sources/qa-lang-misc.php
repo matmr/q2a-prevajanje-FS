@@ -19,7 +19,7 @@
        'feed_closed_prefix'=>'Zaprto:', 
        'feed_edited_prefix'=>'Urejeno:', 
        'feed_hidden_prefix'=>'Skrito:', 
-       'feed_not_found'=>'ups...komentarja ni bilo mogoče najti', 
+       'feed_not_found'=>'ups...zahtevka ni mogoče najti', 
        'feed_recategorized_prefix'=>'Recategorized:', 
        'feed_reopened_prefix'=>'Ponovno odprli:', 
        'feed_reshown_prefix'=>'Reshown:', 
