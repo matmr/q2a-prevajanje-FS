@@ -1,16 +1,16 @@
 <?php
    /* Some smart comment */
    return array(
-       'block_ip_button'=>'Block IP naslov', 
+       'block_ip_button'=>'Blokiraj IP naslov', 
        'browse_categories'=>'Brskanje po kategorijah', 
-       'captcha_approve_fix'=>'To preverjanje se nehali pojavljati, ko je vaš račun odobren.', 
-       'captcha_confirm_fix'=>'Da bi se izognili preverjanju v prihodnje, prosim ^ 5confirm vaš e-poštni naslov ^ 6.', //To avoid this verification in future, please ^5confirm your email address^6.
-       'captcha_error'=>'Prosimo, da izpolnite anti-spam preverjanje', 
+       'captcha_approve_fix'=>'To preverjanje se preneha pojavljati, ko je vaš račun odobren.', 
+       'captcha_confirm_fix'=>'Da bi se izognili preverjanju v prihodnje, prosim ^5confirm vaš e-mail naslov.', //To avoid this verification in future, please ^5confirm your email address^6.
+       'captcha_error'=>'Prosimo, izpolnite anti-spam preverjanje', 
        'captcha_label'=>'Anti-spam preverjanje:', 
-       'captcha_login_fix'=>'Da bi se izognili preverjanju v prihodnje, prosim ^ 1log v ^ 2 ali ^ 3register ^ 4.', //To avoid this verification in future, please ^1log in^2 or ^3register^4.
-       'feed_a_edited_prefix'=>'Odgovorite uredil:', 
+       'captcha_login_fix'=>'Da bi se izognili preverjanju v prihodnje, prosim ^1log v ^2 ali ^3register^4.', //To avoid this verification in future, please ^1log in^2 or ^3register^4.
+       'feed_a_edited_prefix'=>'Odgovore uredil:', 
        'feed_a_prefix'=>'Odgovoril je:', 
-       'feed_a_reshown_prefix'=>'Odgovorite reshown:', 
+       'feed_a_reshown_prefix'=>':', 
        'feed_a_selected_prefix'=>'Odgovorite izbrani:', 
        'feed_c_edited_prefix'=>'Komentar uredil:', 
        'feed_c_moved_prefix'=>'Komentar preselil:', 
@@ -25,19 +25,19 @@
        'feed_reshown_prefix'=>'Reshown:', 
        'feed_retagged_prefix'=>'Retagged:', 
        'feedback_email'=>'Vaš e-naslov: (neobvezno)', 
-       'feedback_empty'=>'Prosimo, uporabite to polje, da pošljete nekaj pripombe ali predloge', 
+       'feedback_empty'=>'Prosimo, uporabite to polje, da pošljete nekaj pripomb ali predlog', 
        'feedback_message'=>'Vaši komentarji ali predlogi za ^:', //Your comments or suggestions for ^:
        'feedback_name'=>'Vaše ime: (neobvezno)', 
-       'feedback_sent'=>'Spodaj Vaše sporočilo je bilo poslano - hvala.', 
+       'feedback_sent'=>'Vaše sporočilo je bilo poslano - hvala.', 
        'feedback_title'=>'Pošlji povratne informacije', 
-       'form_security_again'=>'Prosimo, znova kliknite, da potrdite', 
+       'form_security_again'=>'Prosimo, kliknite znova za potrditev', 
        'form_security_reload'=>'Prosimo, osvežite stran in poskusite znova', 
        'hide_all_ip_button'=>'Skrij vse prispevke iz tega IP', 
-       'host_name'=>'Host ime:', 
+       'host_name'=>'ime gostitelja:', 
        'inbox'=>'Prejeto', 
-       'matches_blocked_ips'=>'Tekme blokiran IP naslove:', 
-       'message_empty'=>'Vnesite svoje sporočilo poslati tega uporabnika', 
-       'message_explanation'=>'To bo poslan kot obvestila ^. Vaš e-naslov ne bo pokazala, če ga vključite v sporočilu.', //This will be sent as a notification from ^. Your email address will not be revealed unless you include it in the message.
+       'matches_blocked_ips'=>'vaš IP je blokiran:', 
+       'message_empty'=>'Vnesite svoje sporočilo', 
+       'message_explanation'=>'To bo poslano kot obvestilo ^. Vaš e-naslov ne bo prikazan, razen če ga vključite v sporočilo.', //This will be sent as a notification from ^. Your email address will not be revealed unless you include it in the message.
        'message_for_x'=>'Vaše sporočilo za ^:', //Your message for ^:
        'message_limit'=>'Ne, ne moreš poslati več zasebnih sporočil ta ura', 
        'message_must_login'=>'Prosimo, ^ 1log v ^ 2 ali ^ 3register ^ 4 za pošiljanje zasebnih sporočil.', //Please ^1log in^2 or ^3register^4 to send private messages.
