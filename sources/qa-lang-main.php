@@ -148,7 +148,7 @@
        'suggest_ask'=>'Pomagaj nam začeti z ^1asking a question^2.', //Help get things started by ^1asking a question^2.
        'suggest_category_qs'=>'Če si želite ogledati več, kliknite za vse ^1questions in this category^2.', //To see more, click for all the ^1questions in this category^2.
        'suggest_qs'=>'Če si želite ogledati več kliknite za ^1full list of questions^2.', //To see more, click for the ^1full list of questions^2.
-       'suggest_qs_tags'=>'Če si želite ogledati več kliknite za ^1full list of questions^2 ali ^3popular tags^ 4.', //To see more, click for the ^1full list of questions^2 or ^3popular tags^4.
+       'suggest_qs_tags'=>'Če si želite ogledati več kliknite za ^1full list of questions^2 ali ^3popular tags^4.', //To see more, click for the ^1full list of questions^2 or ^3popular tags^4.
        'to_x'=>'na ^', //to ^
        'unanswered_qs_in_x'=>'Vprašanja brez odgovorov v ^', //Questions without answers in ^
        'unanswered_qs_title'=>'Nedavna vprašanja brez odgovorov', 
@@ -173,7 +173,7 @@
        'vote_disabled_q_page_only'=>'Prosimo, oglejte si to vprašanje, če želite glasovati', 
        'vote_down_must_confirm'=>'Prosimo, ^5confirm your email address^6, če želite glasovati negativno.', //Please ^5confirm your email address^6 to vote down.
        'vote_down_popup'=>'Kliknite, če želite glasovati negativno', 
-       'vote_limit'=>'Prejetih je bilo preveč glasov - poskusite znova čet eno uro', 
+       'vote_limit'=>'Prejetih je bilo preveč glasov - poskusite znova čez eno uro', 
        'vote_must_confirm'=>'Prosimo, ^5confirm your email address^6 če želite glasovati.', //Please ^5confirm your email address^6 to vote.
        'vote_must_login'=>'Prosimo, ^1log in^2 ali ^3register^4, če želite glasovati.', //Please ^1log in^2 or ^3register^4 to vote.
        'vote_not_allowed'=>'Glasovanje ni dovoljeno', 
