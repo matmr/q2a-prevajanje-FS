@@ -55,7 +55,7 @@
        'close_form_title'=>'Zapri to vprašanje', 
        'close_original_note'=>'Prav tako lahko vnesete številko vprašanja iz URL, na primer 123.', 
        'close_original_title'=>'URL prvotnega vprašanja:', 
-       'close_q_popup'=>'Zapri to vprašanje morebitn, novim odgovorom', 
+       'close_q_popup'=>'Zapri to vprašanje morebitnim, novim odgovorom', 
        'close_reason_title'=>'Razlog za zapiranje tega vprašanja:', 
        'closed_as_duplicate'=>'zaprt kot dvojnik od:', 
        'closed_with_note'=>'zaprto z opombo:', 
@@ -75,7 +75,7 @@
        'duplicate_content'=>'Zdi se, da je vaša objava dvojnik.', 
        'edit_a_popup'=>'Uredite ta odgovor', 
        'edit_a_title'=>'Uredi odgovor', 
-       'edit_button'=>'edit', 
+       'edit_button'=>'Uredi', 
        'edit_c_popup'=>'Uredite ta komentar', 
        'edit_c_title'=>'Uredi komentar', 
        'edit_must_confirm'=>'Prosimo, ^5confirm your email address^6 da lahko urejate.', //Please ^5confirm your email address^6 to edit this.
@@ -101,8 +101,8 @@
        'hide_c_popup'=>'Skrij ta komentar', 
        'hide_q_popup'=>'Skrij to vprašanje', 
        'matching_tags'=>'Ujemajoče oznake:', 
-       'max_tags_x'=>'Dovoljen0 je največ ^ tags', //A maximum of ^ tags are allowed
-       'min_tags_x'=>'Navedite vsaj ^ tag/s', //Please provide at least ^ tag/s
+       'max_tags_x'=>'Dovoljeno je največ ^ oznak', //A maximum of ^ tags are allowed
+       'min_tags_x'=>'Navedite vsaj ^ oznak', //Please provide at least ^ tag/s
        'notify_email_note'=>'Zasebnost: Vaš e-poštni naslov bo uporabljen le za pošiljanje teh obvestil.', 
        'q_category_label'=>'Kategorija:', 
        'q_content_label'=>'Več informacij na to vprašanje:', 
@@ -112,7 +112,7 @@
        'q_notify_email'=>'Obvesti me na tem naslovu, če je moje vprašanje odgovorjeno ali komentirano:', 
        'q_notify_label'=>'Obvesti me, če je moje vprašanje odgovorjeno ali komentirano', 
        'q_notify_x_label'=>'Obvesti me (^), je moje vprašanje odgovorjeno ali komentirano', //Email me (^) if my question is answered or commented on
-       'q_tags_comma_label'=>'Oznake - uporaba (vejico (,) kot ločilo:', 
+       'q_tags_comma_label'=>'Oznake - uporabljajte (vejico (,) kot ločilo:', 
        'q_tags_label'=>'Oznake - uporabljajte vezaje za združevanje besed:', 
        'q_title_label'=>'Vprašanje v enem stavku:', 
        'q_waiting_approval'=>'To vprašanje še čaka na odobritev', 
@@ -143,12 +143,12 @@
        'select_text'=>'Najboljši odgovor', 
        'show_1_comment'=>'Prikaži 1 komentar', 
        'show_1_previous_comment'=>'Prikaži 1 prejšnji komentar', 
-       'show_x_comments'=>'Prikaži ^ previous', //Show ^ comments
-       'show_x_previous_comments'=>'Show ^ prejšne komentarje', //Show ^ previous comments
+       'show_x_comments'=>'Prikaži ^ komentar', //Show ^ comments
+       'show_x_previous_comments'=>'Prikaži ^ prejšne komentarje', //Show ^ previous comments
        'unflag_button'=>'odznači', 
        'unflag_popup'=>'Odstranite zastavo, ki ste jo dodali', 
        'unselect_popup'=>'Kliknite za odstranitev izbora', 
-       'x_answers_title'=>'^ Answers', //^ Answers
+       'x_answers_title'=>'^ Odgovori', //^ Answers
        'your_answer_title'=>'Vaš odgovor', 
        'your_comment_a'=>'Vaš komentar na ta odgovor:', 
        'your_comment_q'=>'Vaš komentar na to vprašanje:', 
