@@ -118,7 +118,7 @@
        'page_next'=>'Naslednji', 
        'page_not_found'=>'Strani ni mogoče najti', 
        'page_prev'=>'Prejšnji', 
-       'popular_tags'=>'Priljubljene oznake', 
+       'popular_tags'=>'Priljubljeni', 
        'questions_tagged_x'=>'Nedavno označena vprašanja ^', //Recent questions tagged ^
        'recategorized'=>'prerazporejeno', 
        'recent_activity_in_x'=>'Nedavna dejavnost v ^', //Recent activity in ^
@@ -146,9 +146,9 @@
        'send_button'=>'Pošlji', 
        'since_x'=>'od ^', //since ^
        'suggest_ask'=>'Pomagaj nam začeti ^1s svojim vprašanjem^2.', //Help get things started by ^1asking a question^2.
-       'suggest_category_qs'=>'Če si želite ogledati več, kliknite za vse ^1questions in this category^2.', //To see more, click for all the ^1questions in this category^2.
-       'suggest_qs'=>'Če si želite ogledati več kliknite za ^1full list of questions^2.', //To see more, click for the ^1full list of questions^2.
-       'suggest_qs_tags'=>'Če si želite ogledati več kliknite za ^1full list of questions^2 ali ^3popular tags^4.', //To see more, click for the ^1full list of questions^2 or ^3popular tags^4.
+       'suggest_category_qs'=>'Če si želite ogledati več, kliknite za vsa ^1vprašanja v tej kategoriji^2.', //To see more, click for all the ^1questions in this category^2.
+       'suggest_qs'=>'Če si želite ogledati več kliknite za ^1seznam vprašanj^2.', //To see more, click for the ^1full list of questions^2.
+       'suggest_qs_tags'=>'Če si želite ogledati več kliknite za ^1seznam vprašanj^2 ali ^3priljubljene^4.', //To see more, click for the ^1full list of questions^2 or ^3popular tags^4.
        'to_x'=>'na ^', //to ^
        'unanswered_qs_in_x'=>'Vprašanja brez odgovorov v ^', //Questions without answers in ^
        'unanswered_qs_title'=>'Nedavna vprašanja brez odgovorov', 
@@ -158,8 +158,8 @@
        'unupvoteda_qs_title'=>'Nedavna vprašanja brez pozitivno ocenjenega odgovora', 
        'upload_limit'=>'Strežnik je preobremenjen - poskusite znova čez eno uro', 
        'view_q_must_be_approved'=>'Vaš račun mora biti potrjen za ogled strani z vprašanji.', 
-       'view_q_must_confirm'=>'Prosimo, ^5confirm your email address^6, če želite videti strani z vprašanji.', //Please ^5confirm your email address^6 to view question pages.
-       'view_q_must_login'=>'Prosimo, ^1log in^2 ali ^ 3register^4, če želite videti strani z vprašanji.', //Please ^1log in^2 or ^3register^4 to view question pages.
+       'view_q_must_confirm'=>'Prosimo, ^5potrdite svoj email naslov^6, če želite videti strani z vprašanji.', //Please ^5confirm your email address^6 to view question pages.
+       'view_q_must_login'=>'Prosimo, ^1prijavite se^2 ali ^ 3registrirajte^4, če želite videti strani z vprašanji.', //Please ^1log in^2 or ^3register^4 to view question pages.
        'viewed_qs_in_x'=>'Največkrat ogledana vprašanja v ^', //Most viewed questions in ^
        'viewed_qs_title'=>'Največkrat ogledana vprašanja', 
        'vote_disabled_approve'=>'Vaš račun mora biti potrjen, preden lahko glasujete', 
@@ -171,11 +171,11 @@
        'vote_disabled_my_a'=>'Ne morete glasovati za svoj odgovor', 
        'vote_disabled_my_q'=>'Ne morete glasovati za svoje vprašanje', 
        'vote_disabled_q_page_only'=>'Prosimo, oglejte si to vprašanje, če želite glasovati', 
-       'vote_down_must_confirm'=>'Prosimo, ^5confirm your email address^6, če želite glasovati negativno.', //Please ^5confirm your email address^6 to vote down.
+       'vote_down_must_confirm'=>'Prosimo, ^5potrdite svoj email naslov^6, če želite glasovati negativno.', //Please ^5confirm your email address^6 to vote down.
        'vote_down_popup'=>'Kliknite, če želite glasovati negativno', 
        'vote_limit'=>'Prejetih je bilo preveč glasov - poskusite znova čez eno uro', 
-       'vote_must_confirm'=>'Prosimo, ^5confirm your email address^6 če želite glasovati.', //Please ^5confirm your email address^6 to vote.
-       'vote_must_login'=>'Prosimo, ^1log in^2 ali ^3register^4, če želite glasovati.', //Please ^1log in^2 or ^3register^4 to vote.
+       'vote_must_confirm'=>'Prosimo, ^5potrdite svoj email naslov^6 če želite glasovati.', //Please ^5confirm your email address^6 to vote.
+       'vote_must_login'=>'Prosimo, ^1prijavite se^2 ali ^3registrirajte^4, če želite glasovati.', //Please ^1log in^2 or ^3register^4 to vote.
        'vote_not_allowed'=>'Glasovanje ni dovoljeno', 
        'vote_up_popup'=>'Kliknite, če želite oddati pozitiven glas', 
        'voted_down_popup'=>'Oddali ste negativen glas - kliknite, če želite umakniti svoj glas', 
