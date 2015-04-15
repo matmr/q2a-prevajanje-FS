@@ -145,7 +145,7 @@
        'selected'=>'izbrano', 
        'send_button'=>'Pošlji', 
        'since_x'=>'od ^', //since ^
-       'suggest_ask'=>'Pomagaj nam začeti z ^1s svojim vprašanjem^2.', //Help get things started by ^1asking a question^2.
+       'suggest_ask'=>'Pomagaj nam začeti ^1s svojim vprašanjem^2.', //Help get things started by ^1asking a question^2.
        'suggest_category_qs'=>'Če si želite ogledati več, kliknite za vse ^1questions in this category^2.', //To see more, click for all the ^1questions in this category^2.
        'suggest_qs'=>'Če si želite ogledati več kliknite za ^1full list of questions^2.', //To see more, click for the ^1full list of questions^2.
        'suggest_qs_tags'=>'Če si želite ogledati več kliknite za ^1full list of questions^2 ali ^3popular tags^4.', //To see more, click for the ^1full list of questions^2 or ^3popular tags^4.
