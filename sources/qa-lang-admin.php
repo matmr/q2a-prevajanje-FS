@@ -166,7 +166,7 @@
        'q2a_version'=>'Q2A različica:', 
        'question_lists'=>'Seznam vprašanj', 
        'question_pages'=>'Strani za vprašanja', 
-       'recalc_categories'=>'Preračunaj  kategorije'
+       'recalc_categories'=>'Preračunaj  kategorije',
        'recalc_categories_backpaths'=>'Preračunavanjem URL poti za ^1 of ^2 kategorijah...', //Recalculating URL paths for ^1 of ^2 categories...
        'recalc_categories_complete'=>'Vse kategorije so bile uspešno preračunane.', 
        'recalc_categories_note'=>'Opombe preračunanih kategorij', 
