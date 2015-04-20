@@ -12,7 +12,7 @@
        'allow_user_walls'=>'Omogoči objave na zidu uporabniških profilov:', 
        'allow_view_q_bots'=>'Dovoli iskalniku ogled vprašanj na straneh',
        'approve_user_required'=>'Vsi novi uporabniki, morajo biti odobreni:', 
-       'avatar_allow_gravatar'=>'Dovoli ^ 1Gravatar ^ 2 avatarjev:', //Allow ^1Gravatar^2 avatars:
+       'avatar_allow_gravatar'=>'Dovoli ^1Gravatar ^2 avatarjev:', //Allow ^1Gravatar^2 avatars:
        'avatar_allow_upload'=>'Omogoči uporabnikom nalaganje avatarjev:', 
        'avatar_default_show'=>'Privzeti avatar:', 
        'avatar_message_list_size'=>'Velikost avatarja na seznamu sporočil:', 
