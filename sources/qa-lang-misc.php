@@ -4,10 +4,10 @@
        'block_ip_button'=>'Blokiraj IP naslov', 
        'browse_categories'=>'Brskanje po kategorijah', 
        'captcha_approve_fix'=>'To preverjanje se preneha pojavljati, ko je vaš račun odobren.', 
-       'captcha_confirm_fix'=>'Da bi se izognili preverjanju v prihodnje, prosim ^5confirm vaš e-mail naslov.', //To avoid this verification in future, please ^5confirm your email address^6.
+       'captcha_confirm_fix'=>'Da bi se izognili preverjanju v prihodnje, prosimo ^5potrdite vaš e-mail naslov.', //To avoid this verification in future, please ^5confirm your email address^6.
        'captcha_error'=>'Prosimo, zaključite anti-spam preverjanje', 
        'captcha_label'=>'Anti-spam preverjanje:', 
-       'captcha_login_fix'=>'Da bi se izognili preverjanju v prihodnje, prosim ^1log v ^2 ali ^3register^4.', //To avoid this verification in future, please ^1log in^2 or ^3register^4.
+       'captcha_login_fix'=>'Da bi se izognili preverjanju v prihodnje, se prosimo ^1vpišite v ^2 ali ^3registrirajte^4.', //To avoid this verification in future, please ^1log in^2 or ^3register^4.
        'feed_a_edited_prefix'=>'preoblikovan odgovor:', 
        'feed_a_prefix'=>'Odgovorjeno:', 
        'feed_a_reshown_prefix'=>'odgovor ponovno prikazan:', 
@@ -40,7 +40,7 @@
        'message_explanation'=>'To bo poslano kot obvestilo ^. Vaš e-naslov ne bo prikazan, v kolikor ni vključen v sporočilo.', //This will be sent as a notification from ^. Your email address will not be revealed unless you include it in the message.
        'message_for_x'=>'Vaše sporočilo za ^:', //Your message for ^:
        'message_limit'=>'Preseženo število poslanih zasebnih sporočil v zadnji uri.', 
-       'message_must_login'=>'Prosimo, ^1log v ^2 ali ^3register^4 za pošiljanje zasebnih sporočil.', //Please ^1log in^2 or ^3register^4 to send private messages.
+       'message_must_login'=>'Prosimo, ^1vpišite v ^2 ali ^3se registrirajte^4 za pošiljanje zasebnih sporočil.', //Please ^1log in^2 or ^3register^4 to send private messages.
        'message_recent_history'=>'Nedavno dopisovanje s/z ^', //Recent correspondence with ^
        'message_sent'=>'Vaše sporočilo je bilo poslano', 
        'more_favorite_qs'=>'Več priljubljenih vprašanj ...', 
@@ -74,7 +74,7 @@
        'recent_updates_title'=>'Zadnje posodobitve za mene', 
        'site_in_maintenance'=>'Ta stran je trenutno nedosegljiva zaradi vzdrževanja - prosim vrnite se kmalu.', 
        'suggest_favorites_add'=>'Dadodate vprašanje ali druge elemente med priljubljene kliknite ^ na vrhu strani.', //To add a question or other item to your favorites, click the ^ at the top of its page.
-       'suggest_update_favorites'=>'Za več posodobitev, dodajate predmete med ^1your priljubljene ^2.', //For more updates, add items to ^1your favorites^2.
+       'suggest_update_favorites'=>'Za več posodobitev, dodajate predmete med ^1vaše priljubljene ^2.', //For more updates, add items to ^1your favorites^2.
        'unblock_ip_button'=>'Odblokiraj IP naslov', 
        'your_a_commented'=>'vaš odgovor so komentirali', 
        'your_a_edited'=>'vaš odgovor so uredili/a', 
