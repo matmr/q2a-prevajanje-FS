@@ -126,7 +126,7 @@
        'reject_c_popup'=>'Zavrni ta komentar', 
        'reject_q_popup'=>'Zavrni to vprašanje', 
        'remove_q_favorites'=>'Odstrani to vprašanje iz mojih priljubljenih', 
-       'reopen_button'=>'ponovno odpri', p
+       'reopen_button'=>'ponovno odpri', 
        'reopen_q_popup'=>'Ponovno odpri to vprašanje', 
        'reply_button'=>'odgovori', 
        'reply_c_popup'=>'Odgovori na ta komentar', 
