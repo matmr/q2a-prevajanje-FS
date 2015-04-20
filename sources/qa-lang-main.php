@@ -40,8 +40,8 @@
        'comment_reshown'=>'Komentar ponovno prikazan', 
        'commented'=>'Komentirano', 
        'date_day_min_digits'=>'1',
-       'date_format_other_years'=>' ^mesec ^dan, ^leto', //^month ^day, ^year
-       'date_format_this_year'=>' ^mesec ^dan', //^month ^day
+       'date_format_other_years'=>' ^month ^day, ^year', //^month ^day, ^year
+       'date_format_this_year'=>' ^month ^day', //^month ^day
        'date_month_1'=>'Januar', 
        'date_month_10'=>'Oktober', 
        'date_month_11'=>'November', 
@@ -72,7 +72,7 @@
        'max_length_x'=>'Največja dolžina je ^ znakov', //Maximum length is ^ characters
        'max_upload_size_x'=>'Največja velikost, ki jo lahko naložite je ^', //Maximum upload size is ^
        'me'=>'Jaz',
-       'meta_order'=>'^kaj^kdaj^kje^kdo', //^what^when^where^who
+       'meta_order'=>'^what^when^where^who', //^what^when^where^who
        'min_length_x'=>'Prosimo, zagotovite več informacij - vsaj ^ znakov', //Please provide more information - at least ^ characters
        'moved'=>'Premaknjeno', 
        'nav_activity'=>'Vse dejavnosti', 
@@ -159,7 +159,7 @@
        'upload_limit'=>'Strežnik je preobremenjen - poskusite znova čez eno uro', 
        'view_q_must_be_approved'=>'Vaš račun mora biti potrjen za ogled strani z vprašanji.', 
        'view_q_must_confirm'=>'Prosimo, ^5potrdite vaš e-poštni naslov^6, če želite vprašanja.', //Please ^5confirm your email address^6 to view question pages.
-       'view_q_must_login'=>'Prosimo, ^1prijavite se^2 ali ^ 3registriraj^4, če želite videti vprašanja.', //Please ^1log in^2 or ^3register^4 to view question pages.
+       'view_q_must_login'=>'Prosimo, ^1prijavite se^2 ali ^3registriraj^4, če želite videti vprašanja.', //Please ^1log in^2 or ^3register^4 to view question pages.
        'viewed_qs_in_x'=>'Največkrat ogledana vprašanja v ^', //Most viewed questions in ^
        'viewed_qs_title'=>'Največkrat ogledana vprašanja', 
        'vote_disabled_approve'=>'Vaš račun mora biti potrjen, preden lahko glasujete', 
