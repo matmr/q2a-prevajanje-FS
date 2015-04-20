@@ -18,8 +18,8 @@
        'answer_button'=>'Odgovor', 
        'answer_limit'=>'Prejetih preveč odgovorov - prosimo poskusite znova čez 1 uro', 
        'answer_must_be_approved'=>'Vaš račun je treba odobriti, preden lahko odgovorite na vprašanje.', 
-       'answer_must_confirm'=>'Prosimo, ^5confirm your email address^6 da lahko odgovorite na vprašanje.', //Please ^5confirm your email address^6 to answer this question.
-       'answer_must_login'=>'Prosimo, ^1log in^2 ali ^3register^4 da lahko odgovorite na vprašanje.', //Please ^1log in^2 or ^3register^4 to answer this question.
+       'answer_must_confirm'=>'Prosimo, ^5potrdite vaš email^6, da lahko odgovorite na vprašanje.', //Please ^5confirm your email address^6 to answer this question.
+       'answer_must_login'=>'Prosimo, ^1prijaviet se^2 ali ^3registrirajte^4 da lahko odgovorite na vprašanje.', //Please ^1log in^2 or ^3register^4 to answer this question.
        'answer_q_popup'=>'Odgovori na to vprašanje', 
        'approve_a_popup'=>'Odobri ta odgovor', 
        'approve_button'=>'odobri', 
@@ -30,8 +30,8 @@
        'ask_follow_title'=>'Postavite sorodno vprašanje', 
        'ask_limit'=>'Prejetih preveč vprašanj - prosimo poskusite znova čez 1 uro', 
        'ask_must_be_approved'=>'Vaš račun je potrebno odobriti, preden lahko zastavite vprašanje.', 
-       'ask_must_confirm'=>'Prosim, ^5confirm your email address^6  da lahko zastavite vprašanje.', //Please ^5confirm your email address^6 to ask a question.
-       'ask_must_login'=>'Prosim, ^1log in^2 or ^3register^4 da lahko zastavite vprašanje.', //Please ^1log in^2 or ^3register^4 to ask a question.
+       'ask_must_confirm'=>'Prosimo, ^5potrdite vaš email naslov^6,  da lahko zastavite vprašanje.', //Please ^5confirm your email address^6 to ask a question.
+       'ask_must_login'=>'Prosimo, ^1prijavite^2 ali ^3registrirajte^4 se, da lahko zastavite vprašanje.', //Please ^1log in^2 or ^3register^4 to ask a question.
        'ask_same_q'=>'Preden nadaljujete, preverite da vašega vprašanja ni vprašal že kdo drug:', 
        'ask_title'=>'Postavite vprašanje', 
        'c_notify_email'=>'Obvesti me na tem naslovu, če se doda komentar po mojem:', 
@@ -63,8 +63,8 @@
        'comment_button'=>'komentar', 
        'comment_limit'=>'Prejetih preveč komentarjev - poskusite znova na v 1 uri', 
        'comment_must_be_approved'=>'Vaš račun je potrebno odobriti, preden lahko dodate komentar.', 
-       'comment_must_confirm'=>'Prosimo, ^5confirm your email address^6 preden lahko dodate komentar.', //Please ^5confirm your email address^6 to add a comment.
-       'comment_must_login'=>'Prosimo, ^1log in^2 or ^3register^4 preden lahko dodate komentar.', //Please ^1log in^2 or ^3register^4 to add a comment.
+       'comment_must_confirm'=>'Prosimo, ^5potrdite vaš email^6 preden lahko dodate komentar.', //Please ^5confirm your email address^6 to add a comment.
+       'comment_must_login'=>'Prosimo, ^1prijavite^2 ali ^3registrirajte^4 se preden lahko dodate komentar.', //Please ^1log in^2 or ^3register^4 to add a comment.
        'comment_on_a'=>'Na odgovor:', 
        'comment_on_q'=>'Na vprašanje:', 
        'comment_q_popup'=>'Dodaj komentar na to vprašanje', 
@@ -78,8 +78,8 @@
        'edit_button'=>'Uredi', 
        'edit_c_popup'=>'Uredite ta komentar', 
        'edit_c_title'=>'Uredi komentar', 
-       'edit_must_confirm'=>'Prosimo, ^5confirm your email address^6 da lahko urejate.', //Please ^5confirm your email address^6 to edit this.
-       'edit_must_login'=>'Prosimo, ^1log in^2 or ^3register^4 da lahko urejate.', //Please ^1log in^2 or ^3register^4 to edit this.
+       'edit_must_confirm'=>'Prosimo, ^5potrdite vaš email^6, da lahko urejate.', //Please ^5confirm your email address^6 to edit this.
+       'edit_must_login'=>'Prosimo, ^1prijavite^2 ali ^3registrirajte^4 se, da lahko urejate.', //Please ^1log in^2 or ^3register^4 to edit this.
        'edit_q_popup'=>'Uredite to vprašanje', 
        'edit_q_title'=>'Uredi vprašanje', 
        'example_tags'=>'Primer oznake:', 
@@ -88,8 +88,8 @@
        'flag_c_popup'=>'Označi ta komentar kot smeti ali neprimeren', 
        'flag_hide_button'=>'Označi in skrij', 
        'flag_limit'=>'Preveč objav označeno z zastavico - poskusite znova čez 1 uro', 
-       'flag_must_confirm'=>'Prosimo, ^5confirm your email address^6 da lahko označite objave.', //Please ^5confirm your email address^6 to flag posts.
-       'flag_must_login'=>'Prosimo, ^1log in^2 or ^3register^4 da lahko označite objave.', //Please ^1log in^2 or ^3register^4 to flag posts.
+       'flag_must_confirm'=>'Prosimo, ^5potrdite vaš email^6, da lahko označite objave.', //Please ^5confirm your email address^6 to flag posts.
+       'flag_must_login'=>'Prosimo, ^1prijavite^2 ali ^3registrirajte^4 se, da lahko označite objave.', //Please ^1log in^2 or ^3register^4 to flag posts.
        'flag_not_allowed'=>'Označitev tega ni dovoljena', 
        'flag_q_popup'=>'Označi to vprašanje, kot smeti ali neprimerno', 
        'follow_a_popup'=>'Zastavi novo vprašanje, ki se nanaša na ta odgovor', 
@@ -126,7 +126,7 @@
        'reject_c_popup'=>'Zavrni ta komentar', 
        'reject_q_popup'=>'Zavrni to vprašanje', 
        'remove_q_favorites'=>'Odstrani to vprašanje iz mojih priljubljenih', 
-       'reopen_button'=>'ponovno odpri', 
+       'reopen_button'=>'ponovno odpri', p
        'reopen_q_popup'=>'Ponovno odpri to vprašanje', 
        'reply_button'=>'odgovori', 
        'reply_c_popup'=>'Odgovori na ta komentar', 
