@@ -57,7 +57,7 @@
 		'q_answered_subject' => 'Tvoje vprašanje ^site_title je bilo odgovorjeno',
 
 		'q_commented_body' => "Tvoje vprašanje na ^site_title ima nov komentar uporabnika ^c_handle:\n\n^open^c_content^close\n\nTvoje vprašanje je bilo:\n\n^open^c_context^close\n\nOdzoveš se lahko z komentarjem:\n\n^url\n\nHvala,\n\n^site_title",
-		'q_commented_subject' => Tvoje vprašanje ^site_title ima nov komentar',
+		'q_commented_subject' => 'Tvoje vprašanje ^site_title ima nov komentar',
 
 		'q_posted_body' => "Novo vprašanje je postavil ^q_handle:\n\n^open^q_title\n\n^q_content^close\n\nKlikni spodaj za ogled vprašanja:\n\n^url\n\nHvala,\n\n^site_title",
 		'q_posted_subject' => '^site_title ima novo vprašanje',
